@@ -2,5 +2,9 @@
     <string name="app_name">e瞳网仓库管理项目</string>
     <string name="avatar">Avatar</string>
     <string name="login">login</string>
-    <string name="button_login">Button</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="input">input</string>
+    <string name="input_username_hint">请输入用户名awa</string>
+    <string name="input_password_hint">请输入密码awa</string>
 </resources>
